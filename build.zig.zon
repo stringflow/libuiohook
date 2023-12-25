@@ -1,0 +1,15 @@
+.{
+    .name = "libuiohook",
+    .version = "1.2.0",
+    .dependencies = .{},
+    .paths = .{
+        "AUTHORS",
+        "COPYING.LESSER.md",
+        "COPYING.md",
+        "README.md",
+        "build.zig",
+        "build.zig.zon",
+        "include",
+        "src",
+    },
+}

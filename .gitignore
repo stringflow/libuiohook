@@ -1,4 +1,2 @@
-/.idea/
-/.vs/
-/build/
-/dist/
+/zig-cache
+/zig-out
